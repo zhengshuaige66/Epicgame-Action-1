@@ -1,4 +1,4 @@
-# EpicGames 自动白嫖每周免费游戏
+# EpicGames  自动白嫖每周免费游戏
 ![image](https://user-images.githubusercontent.com/4411977/74479432-6a6d1b00-4eaf-11ea-930f-1b89e7135887.png)
 
 ## 使用过程
